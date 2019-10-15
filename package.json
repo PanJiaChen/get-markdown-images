@@ -1,0 +1,32 @@
+{
+  "name": "get-markdown-images",
+  "version": "1.0.0",
+  "description": "get all images from markdown",
+  "main": "lib/index.js",
+  "bin": {
+    "get-markdown-images": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanJiaChen/get-markdown-images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanJiaChen/get-markdown-images/issues"
+  },
+  "homepage": "https://github.com/PanJiaChen/get-markdown-images#readme",
+  "devDependencies": {
+    "axios": "^0.19.0",
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "commonmark": "^0.29.0",
+    "glob": "^7.1.4",
+    "listr": "^0.14.3",
+    "mkdirp": "^0.5.1",
+    "yargs": "^14.2.0"
+  }
+}
