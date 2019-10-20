@@ -3,7 +3,7 @@ get all images from markdown
 
 <p align="center">
 	<br>
-	<img src="screenshot.svg" width="500">
+	<img src="screenshot.svg">
 	<br>
 </p>
 
